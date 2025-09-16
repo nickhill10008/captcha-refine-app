@@ -3,5 +3,6 @@ torch
 torchvision
 torchaudio
 pillow
+numpy==1.26.2
 opencv-python-headless==4.8.1.78
 matplotlib
